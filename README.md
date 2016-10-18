@@ -1,4 +1,4 @@
-# HTML Email Template Meroon Color
+# HTML Email Template
 Just for collection and share to all coders.
 
 #Installation
